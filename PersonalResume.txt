@@ -1,0 +1,21 @@
+
+技术能力
+1. 精通linux c/c++高吞吐高并发、分布式负载平衡等，网络服务程序开发；熟悉linux shell;
+2. 熟悉linux c嵌入式程序开发；
+3. 熟悉stm8/32等 c单片机程序开发；
+4. 熟悉JAVA构架下SSH,springboot后端开发；ngnix,redis,rabbitmq,等；
+5. 熟悉windows下c/boost c++，d3d11/HLSL，C#开发；
+6. 
+
+项目经验
+1. 车载监控项目：
+	1. 设备：linux 海思hi3512/hi3515系统4-8路音视频网络录像机；支持硬盘/U盘/存储卡等存储，支持4G网络视频传送和交互等；C。
+	2. PC播放器：windows下音视频4-8路音视频同步播放器；底层C/C++;界面C#;
+	3. 平台(C/S)：windows下音视频实时浏览与GPS地图定位平台；C/S结构; C/C++/C#；
+2. 物联网项目:
+	1. 各种终端：基于stm8/32 sx1278 lora无线嵌入式单片机；
+	2. lora网关: 嵌入式linux C sx1301 lora 网关；支持4G/ETH;
+	3. linux C lora网络转发服务: 双向转发网关和rabbitmq消息队列；单机支持万级网络并发连接和十万级终端节点；
+	4. 平台java springboot：数据接收，解析存储mysql,缓存redis, 分析，报警；设备管理；等。
+
+
